@@ -8,4 +8,4 @@ Kalle Liljeström, Miro Lähde ja Marcus Palmu.
 
 **Kuvia**
 
-![Screenshot](https://imgur.com/a/Jj8YsFW "LC0")
+![Screenshot](https://i.imgur.com/oYOS9BD.png "LC0")
